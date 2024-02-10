@@ -1,6 +1,6 @@
 <h2>Simple CRUD project using AJAX</h2>
 
-This is a simple PHP CRUD (Create, Read, Update, Delete) application that allows you to perform basic CRUD operations on a MySQL database.
+This is a simple PHP CRUD (Create, Read, Update, Delete) application that allows you to perform basic CRUD operations on a MySQL(phpmyadmin) database.
 
 ## Files
 
@@ -22,7 +22,7 @@ This is a simple PHP CRUD (Create, Read, Update, Delete) application that allows
 ## Usage
 
 1. **Accessing the Application**: Upload all files to your web server.
-2. **Database Setup**: Import the provided SQL file (`database.sql`) into your MySQL database to create the necessary tables.
+2. **Database Setup**: Create the necessary tables in your phpmyadmin.
 3. **Configuration**: Edit the `config.php` file and provide your MySQL database connection details.
 4. **Running the Application**: Access the `index.php` file through your web browser to use the CRUD application.
 
@@ -48,20 +48,6 @@ The technologies we have used
   <li><b>JQuery:</b> Implemented for simplifying JavaScript code and enhancing interactivity.</li>
 
   <li><b>PHP:</b> Process the data in the backend side and store it in the database.</li>
-</ul>
-
-<h4>Project Structure</h4>
-
-The project is organized into four main sections:
-<ul>
-  <li><b>Home - </b>Introduction to the website and a visually appealing landing page.</li>
-  
-  <li><b>About -</b> Detailed information about the creator, their skills, and background.</li>
-  
-  <li><b>Services - </b>A section highlighting the services offered or skills available.</li>
-  
-  <li><b>Contact -</b> A contact form allowing users to submit their details.</li>
-
 </ul>
 
 <h2>How to run the project</h2>
