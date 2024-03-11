@@ -96,11 +96,13 @@ The technologies we have used
 
 <b>Step 5 : Open the project folder in your code editor. I prefer vscode for code editing.</b>
 
-![Screenshot 2024-02-04 125821](https://github.com/Harishpmkumar/Portfolio_PHP_project/assets/94518989/3254a3f0-cc0c-443e-8833-226921bca723)
+![Screenshot (5)](https://github.com/Harishpmkumar/php_ajax_crud_project/assets/94518989/390676a4-844e-4e69-89cf-8ed9a9aac42d)
+
 
 <b>Step 6 : Open <i>“config.php”</i> file and change your username, password and database in the file.</b>
 
- ![Screenshot 2024-02-04 131635](https://github.com/Harishpmkumar/Portfolio_PHP_project/assets/94518989/13b91691-4fca-4e7d-8813-9d7f3426f506)
+ ![Screenshot (6)](https://github.com/Harishpmkumar/php_ajax_crud_project/assets/94518989/fbfde0ea-b9ad-4404-a580-1dd2dae9706e)
+
 
 🎊🥂🎉  All the configuration is over  🎊🥂🎉
 
