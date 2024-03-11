@@ -11,11 +11,13 @@ This is a simple PHP CRUD (Create, Read, Update, Delete) application that allows
 5. **update.php**: PHP script to handle the updating of records in the database.
 6. **delete.php**: PHP script to handle the deletion of records from the database.
 7. **config.php**: PHP script containing database connection details.
+8. **table_data.php**: PHP script containing table for loading(refreshing).
+9. **style.css**: Style sheet having the simple css for the index page.
 
 ## Features
 
 - Display a form for adding new records to the database.
-- Display a table listing existing records from the database with options to edit or delete each record.
+- Display a table listing existing records from the database with options to update or delete each record.
 - Use Bootstrap 5 for styling the UI.
 - Use jQuery for handling form submission and AJAX requests.
 
@@ -84,7 +86,7 @@ The technologies we have used
 
 ![Screenshot 2024-02-04 130333](https://github.com/Harishpmkumar/Portfolio_PHP_project/assets/94518989/f4f6c1db-f6db-461a-aa03-371825f25b90)
 
-<b>Step 4 : Create a username, password for phpmyadmin access and create a database and table (create a table with name “users“ and fields of id(primary key, int), name(varchar), email(varchar), subject(varchar), message(varchar)). If you dont know to create then refer this link. </b>
+<b>Step 4 : Create a username, password for phpmyadmin access and create a database and table (create a table with name “crud“ and fields of id(primary key, int), email(varchar), password(varchar). If you dont know to create then refer this link. </b>
 <ul>
 <li><b>Create username and password - </b><a href="https://www.webserver.com.my/kb/creating-user-accounts-in-phpmyadmin/">Click !</a></li>
 
@@ -102,6 +104,8 @@ The technologies we have used
 
 🎊🥂🎉  All the configuration is over  🎊🥂🎉
 
-<b>Step 7 : Go to your browser, then type <i>“localhost/php-project”</i>.</b>
+<b>Step 7 : Go to your browser, then type <i>“[localhost/PHP_crud_ajax](http://localhost/PHP_crud_ajax/index.php)”</i>.</b>
+![Screenshot_11-3-2024_205514_localhost](https://github.com/Harishpmkumar/php_ajax_crud_project/assets/94518989/577f8612-2bd2-4d97-a01f-545801852d0f)
 
-![Screenshot 2024-02-04 132511](https://github.com/Harishpmkumar/Portfolio_PHP_project/assets/94518989/f90750b4-74cd-422e-9ed5-42dd29ea442c)
+
+
