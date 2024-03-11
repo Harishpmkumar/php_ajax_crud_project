@@ -93,6 +93,9 @@ The technologies we have used
 <li><b>Create database and table - </b><a href="https://www.geeksforgeeks.org/how-to-create-a-new-database-in-phpmyadmin/">Click !</a></li>
 </ul>
 
+Note:- Make sure your table structure looks like below
+
+![Screenshot (7)](https://github.com/Harishpmkumar/php_ajax_crud_project/assets/94518989/399200db-c2f7-407a-8b74-ac29dd49c9c8)
 
 <b>Step 5 : Open the project folder in your code editor. I prefer vscode for code editing.</b>
 
