@@ -109,9 +109,10 @@ Note:- Make sure your table structure looks like below
 
 🎊🥂🎉  All the configuration is over  🎊🥂🎉
 
-<b>Step 7 : Go to your browser, then type <i>“[localhost/php-event-handling](http://localhost/php-event-handling/index.php)”</i>.</b>
+<b>Step 7 : Go to your browser, then type <i>“[localhost/PHP_crud_ajax](http://localhost/PHP_crud_ajax/index.php)”</i>.</b>
 
-![Screenshot_13-4-2024_20208_localhost](https://github.com/Harishpmkumar/php_ajax_crud_project/assets/94518989/ec543d51-4157-43d3-bd7e-8989a493bb5b)
+
+![Screenshot_13-4-2024_20208_localhost](https://github.com/Harishpmkumar/php_ajax_crud_project/assets/94518989/8544164b-4aa9-45db-9a8b-0879382d20a7)
 
 
 
